@@ -1,4 +1,7 @@
 {
   "name": "alchemy/tcpdf",
-  "version": "master"
+  "version": "master",
+  "autoload": {
+    "classmap": ["./"]
+  }
 }
